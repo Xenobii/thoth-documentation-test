@@ -1,0 +1,45 @@
+# Site information
+site_name: THOTH Documentation Test
+site_url: https://sitename.example
+site_author: Stelios Alvanos
+site_description: THOTH Documentation
+
+# Copyright
+# copyright: Copyright &copy; 2025 Stelios Alvanos
+
+# Repository
+repo_name: thoth-documentation-test
+repo_url: https://github.com/Xenobii/thoth-documentation-test
+
+# Config
+theme:
+  name: material
+  palette:
+    scheme: slate
+    primary: grey
+  logo: assets/Icon-Textailes-Colour-RGB-Ver.png
+  favicon: assets/Icon-Textailes-Colour-RGB-Ver.png
+
+# Extra
+extra:
+  social: 
+    - icon: fontawesome/brands/github
+      link: https://github.com/Xenobii
+
+extra_css:
+  - stylesheets/extra.css
+
+# Page
+nav:
+  - Home: home.md
+  - Deployment: 
+    - Installation: installation.md
+  - Manual:
+    - User Interface: ui.md
+    - Tools: tools.md
+    - Layers: layers.md
+    - History: history.md
+    - Keybinds: keybinds.md
+    - Collaborative: collab.md
+  - API:
+    - Events: api/events.md
