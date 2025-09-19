@@ -31,15 +31,14 @@ extra_css:
 
 # Page
 nav:
-  - Home: home.md
   - Deployment: 
-    - Installation: installation.md
+    - Installation: deployment/installation.md
   - Manual:
-    - User Interface: ui.md
-    - Tools: tools.md
-    - Layers: layers.md
-    - History: history.md
-    - Keybinds: keybinds.md
-    - Collaborative: collab.md
+    - User Interface: manual/ui.md
+    - Tools: manual/tools.md
+    - Layers: manual/layers.md
+    - History: manual/history.md
+    - Keybinds: manual/keybinds.md
+    - Collaborative: manual/collab.md
   - API:
     - Events: api/events.md
