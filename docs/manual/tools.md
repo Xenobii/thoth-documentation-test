@@ -31,12 +31,12 @@ Allows the user to erase directly from 3D surfaces within the scene. Press the e
 
 * **Size**: Adjusts the size of the selection.
 
-## Lasso
+### Lasso
 
 Allows the user to form a free-hand selection onto the screen, from which a selection will be formed on the object. Press the lasso button on the tools panel or use the keyboard shortcut L.
 
 **Options**
 
-* **Resolution**:
-* **Select occluded faces**:
-* **Normal threshold**:
+* **Resolution**: Adjust the level of detail of the lasso selection.
+* **Select occluded faces**: Enables selection of obstructed faces
+* **Normal threshold**: Adjusts the tolerance of the lasso tool. The higher the threshold the lower the tolerance.

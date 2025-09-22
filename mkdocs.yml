@@ -17,8 +17,8 @@ theme:
   palette:
     scheme: slate
     primary: grey
-  logo: assets/Icon-Textailes-Colour-RGB-Ver.png
-  favicon: assets/Icon-Textailes-Colour-RGB-Ver.png
+  logo: assets/thoth-logo.png
+  favicon: assets/thoth-logo.png
 
 # Extra
 extra:
@@ -32,7 +32,9 @@ extra_css:
 # Page
 nav:
   - Deployment: 
-    - Installation: deployment/installation.md
+    - Basic Installation: deployment/installation_basic.md
+    - Advanced Installation: deployment/installation_advanced.md
+    - Opening a scene with THOTH: deployment/open_scene.md
   - Manual:
     - User Interface: manual/ui.md
     - Tools: manual/tools.md
@@ -40,5 +42,7 @@ nav:
     - History: manual/history.md
     - Keybinds: manual/keybinds.md
     - Collaborative: manual/collab.md
+    - Exporting changes: manual/export.md
   - API:
     - Events: api/events.md
+    - REST API: api/rest.md
