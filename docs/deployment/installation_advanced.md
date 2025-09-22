@@ -4,7 +4,7 @@ In order to install ATON and THOTH using this method, you must first follow the 
 
 <p align="center">
     <a href = "https://pm2.keymetrics.io/" target="_blank">
-        <img src="/assets/pm2-logo.png" alt="PM2" width="400"/>
+        <img src="assets/pm2-logo.png" alt="PM2" width="400"/>
     </a>
 </p>
 

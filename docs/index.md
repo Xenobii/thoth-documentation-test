@@ -2,7 +2,7 @@
 
 <p align="center">
     <a href = "https://github.com/Xenobii/thoth_v2" target="_blank">
-        <img src="/assets/thoth-logo.png" alt="THOTH" width="250"/>
+        <img src="assets/thoth-logo.png" alt="THOTH" width="250"/>
     </a>
 </p>
 
@@ -18,12 +18,12 @@ THOTH is based on the [ATON Framework](https://osiris.itabc.cnr.it/aton/), a 3D 
 
 <p align="center">
     <a href = "https://osiris.itabc.cnr.it/aton/" target="_blank">
-        <img src="/assets/aton-logo.png" alt="ATON" width="150"/>
+        <img src="assets/aton-logo.png" alt="ATON" width="150"/>
     </a>
     <a href = "https://threejs.org/" target="_blank">
-        <img src="/assets/three.js-logo.png" alt="ATON" width="150"/>
+        <img src="assets/three.js-logo.png" alt="ATON" width="150"/>
     </a>
     <a href = "https://nodejs.org/en" target="_blank">
-        <img src="/assets/Node.js-logo.png" alt="Node.js" width="200"/>
+        <img src="assets/Node.js-logo.png" alt="Node.js" width="200"/>
     </a>
 </p>
