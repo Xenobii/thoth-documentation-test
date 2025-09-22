@@ -5,7 +5,7 @@ The only pre-requisite to run your own instance of ATON on your machine is [Node
 
 <p align="center">
     <a href = "https://nodejs.org/en" target="_blank">
-        <img src="/assets/Node.js-logo.png" alt="Node.js" width="200"/>
+        <img src="assets/Node.js-logo.png" alt="Node.js" width="200"/>
     </a>
 </p>
 
@@ -19,7 +19,7 @@ git clone https://github.com/phoenixbf/aton.git
 
 <p align="center">
     <a href = "https://osiris.itabc.cnr.it/aton/" target="_blank">
-        <img src="/assets/aton-logo.png" alt="ATON" width="150"/>
+        <img src="assets/aton-logo.png" alt="ATON" width="150"/>
     </a>
 </p>
 
@@ -32,7 +32,7 @@ git clone https://github.com/Xenobii/thoth_v2.git
 
 <p align="center">
     <a href = "https://github.com/Xenobii/thoth_v2" target="_blank">
-        <img src="/assets/thoth-logo.png" alt="THOTH" width="150"/>
+        <img src="assets/thoth-logo.png" alt="THOTH" width="150"/>
     </a>
 </p>
 
